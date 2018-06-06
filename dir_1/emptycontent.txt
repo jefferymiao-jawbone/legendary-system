@@ -1,2 +1,3 @@
 N/A
 Add line 1
+Add line 2 from testBranch1 to test merging conflict
